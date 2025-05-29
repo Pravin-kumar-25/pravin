@@ -1,0 +1,7 @@
+| Purpose          | Color                    |
+| ---------------- | ------------------------ |
+| Background       | `#0f172a` (zinc-900)     |
+| Accent           | `#7c3aed` (purple-600)   |
+| Secondary Accent | `#38bdf8` (sky-400)      |
+| Text             | `#f1f5f9` (zinc-100)     |
+| Hover            | lighter shades of accent |
